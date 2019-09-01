@@ -73,7 +73,7 @@ body, p{
 	font-weight: normal;
 	font-size: 16px;
 	line-height: 30px;
-	background-color: #0C0A09;
+	/* background-color: #0C0A09; */
 }
 
 h1, h2, h3, h4, h5, h6 {
